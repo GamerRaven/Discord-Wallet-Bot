@@ -5,7 +5,7 @@ Customizable discord wallet bot built with TypeScript
 ## Requirements
 1. Typescript & Node.js Installed
 2. Discord Bot Token
-3. PayPal Business Account with Payouts enabled (optinal) 
+3. PayPal Business Account with Payouts enabled (optional) 
 
 ## Configuration
 Open config.json and fill out the values:
