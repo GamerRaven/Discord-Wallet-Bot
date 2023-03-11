@@ -1,0 +1,23 @@
+{
+  "name": "gamer-raven-payouts",
+  "version": "1.0.0",
+  "description": "The payouts bot created for GamerRaven.",
+  "main": "src/index.ts",
+  "scripts": {
+    "lint": "prettier --write .",
+    "start": "npm run build && node dist/index.js",
+    "dev": "nodemon",
+    "build": "tsc"
+  },
+  "author": "Steamworks",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@types/paypal-rest-sdk": "^1.7.6",
+    "discord.js": "^14.6.0",
+    "paypal-node-sdk": "^2.0.3",
+    "paypal-rest-sdk": "^1.8.1",
+    "sequelize": "^6.25.8",
+    "sqlite3": "^5.1.2"
+  }
+}
