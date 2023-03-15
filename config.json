@@ -1,14 +1,14 @@
 {
   "database": "sqlite://database.db",
-  "serverId": "1027012761957449749",
-  "token": "MTA0NTUwNzgyNDc2OTMxOTA0NQ.GmmxOV.woiFU4hts-byNSxRAAUG7Ugq-nuK08XM5-krbQ",
+  "serverId": "",
+  "token": "",
   "paypalOptions": {
-    "mode": "sandbox",
-    "client_id": "AXfQ9Gf9KCVia1nJQvPT_zX0xYFrO5YtrhTnh6Kek1kLeYxGWrX4VOs4b8_siobYiml9D8SH-WS_lICN",
-    "client_secret": "ELmOnzE-SCTBgqFi2Oiz9KUbqM7_-JfuefL0GcsRYLYf_iUADFqbdDm4ia5tnMJDPSue9DmJSRdzynP3"
+    "mode": "",
+    "client_id": "",
+    "client_secret": ""
   },
   "roles": {
-    "payouts": "1027012762343313420",
-    "walletAdmin": "1027012762343313420"
+    "payouts": "",
+    "walletAdmin": ""
   }
 }
