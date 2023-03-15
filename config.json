@@ -1,6 +1,6 @@
 {
   "database": "sqlite://database.db",
-  "serverId": "1027012761957449749",
+  "serverId": "",
   "token": "",
   "paypalOptions": {
     "mode": "",
@@ -8,7 +8,7 @@
     "client_secret": ""
   },
   "roles": {
-    "payouts": "1027012762343313420",
-    "walletAdmin": "1027012762343313420"
+    "payouts": "",
+    "walletAdmin": ""
   }
 }
