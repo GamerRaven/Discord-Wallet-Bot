@@ -58,3 +58,5 @@ Process a payout to a PayPal account.
 This bot is created for the discord server owner to pay their staff/users and process PayPal payouts automatically. 
 
 Users with the Administrator role ```walletAdmin``` can add money to a user's wallet using /wallet add. Then, the user can withdrawl the money to PayPal by running /payouts create <their PayPal email> <amount>. Then, when the money is successfully paid out, that amount of money will be deducted from the user's wallet.
+
+Give a ⭐ if you like this project :)
