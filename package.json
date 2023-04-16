@@ -8,7 +8,6 @@
     "dev": "nodemon",
     "build": "tsc"
   },
-  "author": "Steamworks",
   "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^1.3.0",
